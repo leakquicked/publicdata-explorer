@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/publicdata-explorer/actions/workflows/python-checks.yml/badge.svg)
+
 # Public Data Explorer
 
 Inspect a local CSV header for potentially sensitive columns.
